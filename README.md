@@ -1,2 +1,1 @@
 # Talks
-Exposiciones realizadas
